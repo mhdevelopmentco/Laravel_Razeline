@@ -1,0 +1,38 @@
+Database Schema
+
+User
+    name
+    birthday
+    type
+    gender
+    education
+    profession
+    description
+    photo
+    do_not_send
+    status //banned, active, pending
+    rate
+
+
+Reports
+
+    reporter_id
+    reportee_id
+    reason
+
+
+MessageChannel
+    sender_id
+    receiver_id
+    last_message
+    unreads //number of unreads
+
+Message
+    channel_id
+    sender_id
+    receiver_id
+    type
+    message
+    read //true/false
+
+
