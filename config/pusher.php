@@ -40,9 +40,9 @@ return [
     'connections' => [
 
         'main' => [
-            'auth_key' => 'be70bda4a0273ca4a552',
-            'secret' => 'c216cfaee4980f1d3b6e',
-            'app_id' => '477783',
+            'auth_key' => '',
+            'secret' => '',
+            'app_id' => '',
             'options' => [
                 'cluster'=> 'us2',
                 'encrypted' => true
