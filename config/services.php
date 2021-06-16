@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => 'mg.razeline.com',
-        'secret' => 'key-afaf53671e6211ffbed940d50424e993',
+        'domain' => '',
+        'secret' => '',
     ],
 
     'ses' => [
@@ -36,8 +36,8 @@ return [
     ],
 
     'paypal' => [
-        'client_id' => 'AdP3gV_8dRUx1gjcoLFwl1QuQ-EVvt15g6g2wZfQC1wJ7xZjrR1bf0BOlf1efgKOOljGfokjW9_tKdsk',
-        'secret' => 'EBuRjSH0tJzTLo6eZ9WPbUels1ulhbu29HYmRFZC0AFPlIs8n8-G5c-sXYvWJBUdw7p47gx9lPKm_rY5'
+        'client_id' => '',
+        'secret' => ''
     ],
 
 ];
